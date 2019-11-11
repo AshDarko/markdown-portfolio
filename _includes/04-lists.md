@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Guitars
+2. Gaming
+   1. PC
+   2. Xbox
+3.  Coding
+
