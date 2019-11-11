@@ -1,1 +1,1 @@
-![Elbowdrop logo](https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14332992_1060902304025938_7289599800587531911_n.jpg?_nc_cat=109&_nc_oc=AQmgVeZ43iKyfMaXngxH9e4_1hLlPEz6cX0swHmbDXtefNKMPJc-tDzEDbpTxDepjqY&_nc_ht=scontent-lhr3-1.xx&oh=01e2729dacc79d2a1df20ca319393560&oe=5E4ABAA7)
+![Elbowdrop logo](https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/14332992_1060902304025938_7289599800587531911_n.jpg?)
